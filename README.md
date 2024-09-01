@@ -29,7 +29,7 @@ This project is a **Fashion Recommendation System** built using TensorFlow and S
 
 - `app.py`: The main application file that runs the Streamlit interface and handles image upload and recommendation logic.
 - `Images_features.pkl`: Precomputed features of the images in the dataset.
-- `filenames.pkl`: Filenames corresponding to the images in the dataset.
+
 
 ## Dependencies
 
