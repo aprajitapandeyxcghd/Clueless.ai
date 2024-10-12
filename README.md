@@ -39,7 +39,7 @@ This project is a **Fashion Recommendation System** built using TensorFlow and S
 - Streamlit
 - Pillow
 
-##Running the Application
+## Running the Application
 Once the directory is set up, you can run the app using Streamlit. In your terminal, navigate to the project folder and run:
 streamlit run app.py
 
